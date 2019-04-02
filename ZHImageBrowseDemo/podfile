@@ -1,0 +1,13 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'ZHImageBrowseDemo' do
+  
+  #布局插件
+  pod 'Masonry'
+  
+  #YYImage
+  pod 'YYWebImage'
+
+end
+
